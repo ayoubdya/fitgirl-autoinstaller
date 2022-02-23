@@ -1,4 +1,4 @@
-### Simple script for people with slow internet or slow PC or both and like to leave FitGirl repacks downloading and installing while there are gone or asleep.
+### Simple script for people with slow internet or slow PC or both and like to leave FitGirl repacks downloading and installing while they are gone or asleep.
 
 ### Installation
 
